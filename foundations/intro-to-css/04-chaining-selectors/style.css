@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+body {
+    background: linear-gradient(to bottom, rgb(233, 162, 162), rgb(194, 142, 109), rgb(203, 198, 93), rgb(199, 191, 40));
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
